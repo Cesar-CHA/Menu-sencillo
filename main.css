@@ -1,0 +1,30 @@
+body{
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: #333;
+    text-align:center;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+li{
+    display: inline-block;
+    margin: 0 10px;
+}
+a{
+    color: aqua;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+}
+a:hover{
+    color: aquamarine;
+}
+h1{
+    color: azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
